@@ -47,6 +47,7 @@ Restaurant-Management-System-Java/
 
 ```bash
 git clone https://github.com/AyushiDeshmukh2005/Restaurant-Management-System-Java.git
+```
 
 2. Open the project in VS Code, IntelliJ IDEA, or Eclipse.
 
