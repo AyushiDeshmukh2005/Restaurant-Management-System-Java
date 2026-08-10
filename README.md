@@ -45,7 +45,7 @@ Restaurant-Management-System-Java/
 
 1. Clone the repository:
 
-```bash
+``` bash
 git clone https://github.com/AyushiDeshmukh2005/Restaurant-Management-System-Java.git
 ```
 
