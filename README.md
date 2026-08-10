@@ -39,7 +39,7 @@ Restaurant-Management-System-Java/
 ├── Order.java
 ├── Restaurant.java
 └── .gitignore
-
+```
 
 ## How to Run
 
