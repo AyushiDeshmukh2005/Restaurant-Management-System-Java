@@ -54,3 +54,18 @@ git clone https://github.com/AyushiDeshmukh2005/Restaurant-Management-System-Jav
 3. Compile the Java files.
 
 4. Run `Main.java`.
+
+
+## Sample Output
+
+### Screenshot 1
+![Screenshot 1](screenshots/1.png)
+
+### Screenshot 2
+![Screenshot 2](screenshots/2.png)
+
+### Screenshot 3
+![Screenshot 3](screenshots/3.png)
+
+### Screenshot 4
+![Screenshot 4](screenshots/4.png)
